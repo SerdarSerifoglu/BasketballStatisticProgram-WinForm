@@ -1,0 +1,278 @@
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\source\repos\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\1411KurstanSonraBasketbolIstatik\1411BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\16.11BasketbolIstatistik-Akşam\15.11-SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Wissen\Downloads\17-11AksamBasketbolIstatik\17-11SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\1811EtutSonrasıBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\21-11BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\22-11BasketbolIstatistik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\2311KursSonuBasketbolIstatik\2311BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\2411SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\nuuklu\Downloads\1.12BasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\1.12.AksamBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form1.resources
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Form2.resources
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\nuuklu\Downloads\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.ResolveComReference.cache
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.AddTeam.resources
+C:\Users\Heil Hitler\Downloads\4-12-2017 SabahBasketbolIstatik\4-12-2017 SabahBasketbolIstatik\BasketbolIstatik\BasketbolIstatik\obj\Debug\BasketbolIstatik.StatisticView.resources
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.ResolveComReference.cache
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.StatisticView.resources
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.AddTeam.resources
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\nuuklu\Downloads\BasketbolIstatikProgram\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.ResolveComReference.cache
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.StatisticView.resources
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.AddTeam.resources
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\nuuklu\Downloads\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.ResolveComReference.cache
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.StatisticView.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.AddTeam.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.ResolveComReference.cache
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.StatisticView.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.AddTeam.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\11.12.2017BasketbolIstatikProgramSonHali\11.12.2017BasketbolIstatikProgramSonHali\BasketbolIstatikProgram-Serdar\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.ResolveComReference.cache
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.StatisticView.resources
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.AddTeam.resources
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
