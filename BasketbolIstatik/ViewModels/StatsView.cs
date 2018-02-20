@@ -9,6 +9,7 @@ namespace BasketbolIstatik.ViewModels
 {
     public class StatsView
     {
+        
         public string NO { get; set; }
         public string NAME { get; set; }
         public TimeSpan MIN { get; set; }
@@ -19,6 +20,7 @@ namespace BasketbolIstatik.ViewModels
         public string BLK { get; set; }
 
         [DisplayName("2PTM")]
+        
         public decimal FGM { get; set; }
         [DisplayName("2PTA")]
         public decimal FGA { get; set; }

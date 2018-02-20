@@ -276,3 +276,17 @@ C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\D
 C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
 C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
 C:\Users\Heil Hitler\Desktop\Belgeler\BasketballStatistic\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe.config
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\bin\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\bin\Debug\BasketbolIstatik.pdb
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.csprojResolveAssemblyReference.cache
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.ResolveComReference.cache
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.BasketballStatistic.resources
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.StatisticView.resources
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.AddTeam.resources
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.Properties.Resources.resources
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.TeamStats.resources
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.GenerateResource.Cache
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.csproj.CoreCompileInputs.cache
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.exe
+C:\Users\Heil Hitler\Downloads\BasketballStatisticProgram-WinForm-master\BasketballStatisticProgram-WinForm-master\BasketbolIstatik\obj\Debug\BasketbolIstatik.pdb

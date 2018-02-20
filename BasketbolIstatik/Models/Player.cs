@@ -9,18 +9,18 @@ namespace BasketbolIstatik
 {
     public class Player
     {
-        //Oyuncu listesi yaptık
-
+        //Oyuncu listeleri oluşturduk.
         public static List<Player> PlayerList = new List<Player>();
         public static List<AwayPlayer> PlayerListAway = new List<AwayPlayer>();
         public static List<HomePlayer> PlayerListHome = new List<HomePlayer>();
-        //sayacları genelde tanımladık.
+        //Sayaç değerlerini genelde tanımladık.
         public decimal TwoPtTryCount = 0, TwoPtMadeCount = 0, ThreePtMadeCount = 0, ThreePtTryCount = 0, FreeThrowMadeCount = 0, FreeThrowTryCount = 0, OffensiveReboundCount = 0, DefensiveReboundCount = 0, AsistCount = 0, BlockCount = 0, StealCount = 0, FoulCount = 0, Rebound=0, TO=0;
         decimal t3ptper,t2ptper,ftper;
         public string PlayerName { get; set; }
         public string No { get; set; }
         public string TeamName { get; set; }
         public decimal TotalPlayerScore { get {return TwoPtMadeCount*2+ThreePtMadeCount*3+FreeThrowMadeCount ; } }
+
         //2 sayılık atışların görünümü
         public decimal TwoPointMadeView
         {
@@ -31,7 +31,6 @@ namespace BasketbolIstatik
             TwoPtMadeCount++;
             TwoPtTryCount++;
         }
-
         
         public decimal TwoPointFalseView
         {
@@ -41,6 +40,8 @@ namespace BasketbolIstatik
         {
             TwoPtTryCount++;
         }
+
+
         public string TwoPointPercentage { get { return String.Format("{0:0.0}%", t2ptper); } }
         public void TwoPointPer()
         {
@@ -87,6 +88,7 @@ namespace BasketbolIstatik
         {
             ThreePtTryCount++;
         }
+
         //Serbest atışların görünümü
         public decimal FreeThrowPointMadeView
         {
@@ -118,6 +120,7 @@ namespace BasketbolIstatik
             }
             
         }
+
         //Offensive Rebound
         public string OffensiveReboundView
         {
@@ -127,6 +130,7 @@ namespace BasketbolIstatik
         {
             OffensiveReboundCount++;
         }
+
         //Defensive Rebound
         public string DefensiveReboundView
         {
@@ -184,6 +188,8 @@ namespace BasketbolIstatik
             FoulCount++;
         }
 
+        //Hataları Düzeltme Metodları
+        #region Hatalı Giriş Metodları
         public void TwoPointReduce()
         {
             TwoPtMadeCount--;
@@ -240,6 +246,7 @@ namespace BasketbolIstatik
         {
             TO--;
         }
+        #endregion
 
         public TimeSpan zaman { get; set; }
         public bool SahadaMi { get; set; }

@@ -25,6 +25,8 @@ namespace BasketbolIstatik
         }
         HomePlayer SelectPlayerHome;
         AwayPlayer SelectPlayerAway;
+
+        //StatsView modele değerleri tanımlıyoruz.
         public List<StatsView> HomeStatsView()
         {
             return HomePlayer.PlayerListHome.Select(x => new StatsView()
@@ -81,8 +83,9 @@ namespace BasketbolIstatik
                 FOUL = x.FoulView
             }).ToList();
         }
+        
 
-        HomePlayer hp = new HomePlayer();
+        //DataGridView'ların Refresh Metodları
         public void DataGridView1Refresh()
         {
             dataGridView1.DataSource = null;
@@ -93,6 +96,8 @@ namespace BasketbolIstatik
             dataGridView2.DataSource = null;
             dataGridView2.DataSource = AwayStatsView();
         }
+
+        //Seçili takımların oyuncu listelerinin .json uzantılı dosyalardan okunması
         public void LoadComboBox1()
         {
             JavaScriptSerializer tercuman = new JavaScriptSerializer();
@@ -123,6 +128,7 @@ namespace BasketbolIstatik
         }
         public decimal HomeScore;
         public decimal AwayScore;
+        //Scoreboard güncelleme metodları
         public void HomeScoreboardUpdate()
         {
             HomeTeamStats hts = new HomeTeamStats();
@@ -133,6 +139,7 @@ namespace BasketbolIstatik
             AwayTeamStats ats = new AwayTeamStats();
             label3.Text = ats.AwayScore.ToString();
         }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             btnDeleteH.Enabled = false;
@@ -155,6 +162,7 @@ namespace BasketbolIstatik
                 comboBox2.Items.Add(item.Name.Replace(".json", ""));
             }
         }
+        //Alt köşelerdeki oyuncu istatistiklerini yazdıran metodlar
         public void HomePlayerShortInfo()
         {
             lblADNO.Text = SelectPlayerHome.No + "# " + SelectPlayerHome.PlayerName;
@@ -178,6 +186,7 @@ namespace BasketbolIstatik
             lblTOA.Text = "TO: " + SelectPlayerAway.TOView;
             lblBLKA.Text = "BLK: " + SelectPlayerAway.BlockView;
         }
+        //Ev sahibi takım oyuncularının buttonları
         #region Form HomePlayer Buttons
 
         private void TabControlSelectHome()
@@ -303,7 +312,7 @@ namespace BasketbolIstatik
             listBox1.Items.Add($"<{label1.Text}> {SelectPlayerHome.PlayerName} Foul");
         }
         #endregion
-
+        //Deplasman sahibi takım oyuncularının buttonları
         #region Form AwayPlayer Buttons
 
         private void TabControlSelectAway()
@@ -428,6 +437,7 @@ namespace BasketbolIstatik
 
         HomeTeamStats ts = new HomeTeamStats();
         AwayTeamStats ats = new AwayTeamStats();
+
         //////Sayaç Ayarları
         int _Second = 00;
         int _Minutes = 10;
@@ -493,7 +503,7 @@ namespace BasketbolIstatik
             }
 
 
-
+            //Oyuncuların sahada kalma sürelerini tutuyoruz.
             for (int i = 0; i < HomePlayer.PlayerListHome.Count(); i++)
             {
                 if (HomePlayer.PlayerListHome[i].SahadaMi == true)

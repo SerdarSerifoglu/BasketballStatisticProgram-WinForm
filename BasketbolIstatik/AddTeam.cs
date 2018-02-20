@@ -18,7 +18,8 @@ namespace BasketbolIstatik
         {
             InitializeComponent();
         }
-        
+        // Takım kaydı ve .json uzantılı dosyanın oluşturulması
+
         public void Save()
         {
             //System.Web.Extensions referansını ekledik.
@@ -27,6 +28,7 @@ namespace BasketbolIstatik
             string dosyaAdi = $"{tbTeamName.Text.Trim()}.json";
             File.WriteAllText(dosyaAdi, ceviri);
         }
+        //Add Team Button
         private void button1_Click(object sender, EventArgs e)
         {
             if (textBox1.Text != "" && textBox2.Text != "")
